@@ -1,0 +1,10 @@
+.icon{
+    max-width: 50%;
+}
+.panel{
+    background-color: aqua;
+}
+.panel h6 p{
+    margin:0px;
+    padding: 5vmin;
+}
